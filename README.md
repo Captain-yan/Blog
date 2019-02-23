@@ -17,4 +17,3 @@ class SomeClass:
 ... prompt'''
 ```
 ![title](https://i.imgur.com/CQERGi7.jpg)
-![title](https://i.loli.net/2019/02/23/5c713ab1eb45d.jpg)
